@@ -1,0 +1,8 @@
+hero = fontsize = 1.29.00 = tailwind.config.js 
+2.15.30 = tailwind.config.js = gridtemplatecolumns
+3.26.04 = CourseDetails tailwind.config.js { spacing }
+3.33.54 = tailwind.config.js 
+4.22.00 =  tailwind.config.js 
+5.51.00 = sidebar.jsx {hover color issue}
+// 6.51.00     =  frontend finished 
+
